@@ -18,3 +18,12 @@ Python-3.x: pip3 install boto3
 
 1st script: using boto3_script.py can see all the user created in aws_management console.
 -----------
+
+Now we will see some aws concepts
+> Session 
+> Resource 
+> Client 
+> Meta
+> Collections
+> Waiters
+> Paginators
